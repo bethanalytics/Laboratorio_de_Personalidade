@@ -55,35 +55,21 @@ O projeto utiliza como referência o modelo **Big Five (OCEAN)**, composto pelos
 
 > **Observação:** As imagens abaixo correspondem ao ambiente de desenvolvimento (DEV). A interface continua em evolução e novas melhorias serão implementadas ao longo do projeto.
 
-## Tela inicial
+## Tela de Perfil
 
-*(Inserir imagem)*
-
-![Tela Inicial](assets/tela-inicial.png)
+![Tela de Perfil](assets/Telaperfil.png)
 
 ---
 
-## Questionário
+## Modo Caos
 
-*(Inserir imagem)*
-
-![Questionário](assets/questionario.png)
+![Modo Caos](assets/Modocaos.png)
 
 ---
 
-## Resultado
+## Gráfico 
 
-*(Inserir imagem)*
-
-![Resultado](assets/resultado.png)
-
----
-
-## Dashboard
-
-*(Inserir imagem)*
-
-![Dashboard](assets/dashboard.png)
+![Gráfico](assets/Grafico.png)
 
 ---
 
